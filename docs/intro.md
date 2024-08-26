@@ -39,7 +39,7 @@ Most of the time there are requirements missing from the requirements.txt file i
 This is easier but not always up-to-date. 
 
 1. python 3.10 or higher [from here](https://www.python.org/downloads/)
-2. Rust [from here](www.rustup.rs)
+2. Rust [from here](https://www.rustup.rs)
 3. Install fracsuite using pip: `pip install fracsuite --upgrade`
 4. Run fracsuite once using: `python -m fracsuite help`
 5. Now you can call fracsuite from every console
