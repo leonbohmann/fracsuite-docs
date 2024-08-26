@@ -7,7 +7,7 @@ sidebar_position: 1
 To install fracsuite and use it, the following prerequisites have to be installed:
 
 1. python 3.10 or higher [from here](https://www.python.org/downloads/)
-2. Rust [from here](www.rustup.rs)
+2. Rust [from here](https://www.rustup.rs)
 3. (optional, if development state is to be used) git [from here](https://git-scm.com/downloads)
 
 After this has been done, you have two options:
