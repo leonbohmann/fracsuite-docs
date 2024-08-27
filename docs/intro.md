@@ -32,7 +32,7 @@ Most of the time there are requirements missing from the requirements.txt file i
 :::
 
 5. Run fracsuite once from the current console: `py -m fracsuite help`
-6. Now, you can call fracsuite in every console. You may have to restart the current terminal session for the changes to apply.
+6. If you want to call fracsuite from anywhere (any console), you need to add the scripts subfolder to the PATH Variable [like so](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Adding-folder-path-to-Windows-PATH-environment-variable.html)
 
 ### Use the latest package release
 
@@ -41,8 +41,7 @@ This is easier but not always up-to-date.
 1. python 3.10 or higher [from here](https://www.python.org/downloads/)
 2. Rust [from here](https://www.rustup.rs)
 3. Install fracsuite using pip: `pip install fracsuite --upgrade`
-4. Run fracsuite once using: `python -m fracsuite help`
-5. Now you can call fracsuite from every console
+4. Now you can use fracsuite anywhere: `fracsuite help` (shows this documentation site)
 
 ## Introduction
 
