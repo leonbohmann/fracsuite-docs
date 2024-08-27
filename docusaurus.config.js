@@ -67,7 +67,7 @@ const config = {
             label: 'Documentation',
           },          
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/leonbohmann/fracture-suite',
             label: 'GitHub',
             position: 'right',
           },
